@@ -13,12 +13,9 @@
     "bestcode.js",
     "besttulip",
     "besttulipjs",
-    "bestdeveloper",
-    "yuvanthb",
-    "uma",
-    "nagapillaiyar"
+    "bestdeveloper"
   ],
-  "author": "Yuvanth B",
+  "author": "BestMat",
   "license": "ISC",
   "description": "",
   "devDependencies": {
