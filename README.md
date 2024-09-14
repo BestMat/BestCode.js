@@ -1,4 +1,5 @@
 # BestCode.js
+🚀 Fast, JavaScript Code Coverage Tool
 ## Install BestCode.js
 ### From GitHub
 ```bash
