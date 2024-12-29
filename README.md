@@ -8,7 +8,3 @@ cd BestCode.js
 npm install && npm link # If you use NPM
 bestcode your_file_name.js
 ```
-### From NPM
-```bash
-npm install ...
-```
