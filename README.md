@@ -5,6 +5,6 @@
 ```bash
 git clone github.com/BestMat/BestCode.js
 cd BestCode.js
-npm install && npm link # If you use NPM
+npm install && npm link
 bestcode your_file_name.js
 ```
