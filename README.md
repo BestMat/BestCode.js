@@ -1,2 +1,2 @@
 # BestCode.js
-🚀 Fast, JavaScript Code Coverage Tool
+A code coverage tool for JavaScript, written in JavaScript.
